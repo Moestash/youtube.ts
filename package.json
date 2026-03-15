@@ -1,6 +1,6 @@
 {
   "name": "youtube.ts",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Wrapper for the YouTube API with typings.",
   "main": "dist/youtube.js",
   "module": "dist/youtube.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moebytes/youtube.ts"
+    "url": "https://github.com/Moestash/youtube.ts"
   },
   "keywords": [
     "youtube",
@@ -22,7 +22,7 @@
     "api",
     "videos"
   ],
-  "author": "Moebytes",
+  "author": "Moestash",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.2.4",
